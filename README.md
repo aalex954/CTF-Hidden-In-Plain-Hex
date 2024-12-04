@@ -8,5 +8,4 @@
 "The spaces between󠁨󠁴󠁴󠁰󠀺󠀯󠀯󠁴󠁩󠁮󠁹󠁵󠁲󠁬󠀯󠀳󠁰󠁡󠁭󠁨󠁲󠁷󠀲 words hold the weight of untold stories."
 ```
 
-
-![image](https://github.com/user-attachments/assets/a49ae7f7-2b33-4332-a08d-fe9d7b98b4d6)
+![image](https://github.com/user-attachments/assets/03c62289-efba-4436-8203-fee1038f5fe8)
